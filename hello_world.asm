@@ -1,0 +1,17 @@
+MOV 48 R0-R12 ; 'H'
+MOV 65 R0-R12 ; 'e'
+MOV 6C R0-R12 ; 'l'
+MOV 6C R0-R12 ; 'l'
+MOV 6F R0-R12 ; 'o'
+
+MOV 2C R0-R12 ; ','
+MOV 81 R0-R12 ; ' '
+
+MOV 77 R0-R12 ; 'w'
+MOV 6F R0-R12 ; 'o'
+MOV 72 R0-R12 ; 'r'
+MOV 6C R0-R12 ; 'l'
+MOV 64 R0-R12 ; 'd'
+MOV 21 R0-R12 ; '!'
+
+OUTPUT R0-R12
